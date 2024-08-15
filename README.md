@@ -1,0 +1,1 @@
+# Sample .NET console app to run XQuery 3.1 with Saxon HE 12.5 Java cross-compiled using IKVM to .NET
